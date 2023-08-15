@@ -2,7 +2,7 @@
   "train_image_dir": "sample/train/",
   "test_image_dir": "sample/train/",
   "model_save_dir": "model_result/",
-  "image_width": 228,
+  "image_width": 227,
   "image_height": 227,
   "max_captcha": 4,
   "image_suffix": "jpg",
